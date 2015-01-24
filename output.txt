@@ -1,0 +1,80 @@
+Customer 0 entered at 20
+Customer 0 got table number 0 at 20
+Customer 0 got chef number 0 at 20
+Customer 0 got machine A at 20
+Customer 1 entered at 30
+Customer 1 got table number 1 at 30
+Customer 0 got machine B at 30
+Customer 1 got chef number 1 at 30
+Customer 1 got machine A at 30
+Customer 2 entered at 31
+Customer 2 got table number 2 at 31
+Customer 3 entered at 32
+Customer 3 got table number 3 at 32
+Customer 4 entered at 33
+Customer 0 got machine C at 33
+Customer 0 started eating at 33
+Customer 2 got chef number 0 at 33
+Customer 1 got machine B at 50
+Customer 2 got machine A at 50
+Customer 1 got machine C at 50
+Customer 1 started eating at 51
+Customer 3 got chef number 1 at 51
+Customer 5 entered at 60
+Customer 2 got machine B at 60
+Customer 3 got machine A at 60
+Customer 2 got machine C at 63
+Customer 4 got table number 0 at 63
+Customer 0 left table at 63
+Customer 4 got chef number 0 at 63
+Customer 2 started eating at 63
+Customer 6 entered at 70
+Customer 3 got machine B at 70
+Customer 4 got machine A at 70
+Customer 7 entered at 71
+Customer 8 entered at 72
+Customer 3 got machine C at 73
+Customer 9 entered at 73
+Customer 3 started eating at 73
+Customer 4 got machine B at 80
+Customer 4 got machine C at 80
+Customer 1 left table at 81
+Customer 4 started eating at 81
+Customer 5 got table number 1 at 81
+Customer 5 got chef number 0 at 81
+Customer 5 got machine A at 81
+Customer 5 got machine B at 91
+Customer 2 left table at 93
+Customer 6 got table number 2 at 93
+Customer 6 got chef number 1 at 93
+Customer 6 got machine A at 93
+Customer 5 got machine C at 94
+Customer 5 started eating at 94
+Customer 3 left table at 103
+Customer 7 got table number 3 at 103
+Customer 7 got chef number 0 at 103
+Customer 4 left table at 111
+Customer 8 got table number 0 at 111
+Customer 7 got machine A at 113
+Customer 6 got machine B at 113
+Customer 6 got machine C at 113
+Customer 6 started eating at 114
+Customer 8 got chef number 1 at 114
+Customer 7 got machine B at 123
+Customer 8 got machine A at 123
+Customer 5 left table at 124
+Customer 9 got table number 1 at 124
+Customer 7 got machine C at 126
+Customer 7 started eating at 126
+Customer 9 got chef number 0 at 126
+Customer 8 got machine B at 133
+Customer 9 got machine A at 133
+Customer 8 got machine C at 139
+Customer 8 started eating at 139
+Customer 9 got machine B at 143
+Customer 9 got machine C at 143
+Customer 6 left table at 144
+Customer 9 started eating at 144
+Customer 7 left table at 156
+Customer 8 left table at 169
+Customer 9 left table at 174
