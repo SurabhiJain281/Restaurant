@@ -1,3 +1,25 @@
-javac Try.java
+This code takes input in the following format and simulates the restaurant.
+N
+T
+C
+followed by N lines in format of
+TS B F Co
 
+N=Total Number of Customers
+T=Total Number of Tables
+C=Total Number of Chefs
+Ts= Timestamp when the customer arrives
+B=Number of Burgers in the order
+F=Number of Fries in the order
+Co=Number of cokes in the order.
+
+The restaurant has only one machine for Burgers, Fries and Coke each. Each customer is first assigned an empty table. It is then
+assigned the next available chef. The chef waits for the machines to prepare the order and locks it till use and unlocks it later.
+It is assumed that each customer takes 30 mins to eat and leave the table, which is then allocated to the next waiting customer.
+
+The code can be run in the following way-
+javac Try.java
 java Try 0<data1.txt 1>output.txt
+
+where data1.txt is the input file in the format described above and output.txt is the output file which tells the timestamp for
+each customer when it is allocated table, allocated chef, got the order and left the table.
